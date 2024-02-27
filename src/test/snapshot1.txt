@@ -1,0 +1,7 @@
+/etc/stove/config.xml
+/Users/baker/recipes/database.xml
+/Users/baker/recipes/database_version3.yaml
+/var/log/orders.log
+/var/log/browser_history.txt
+lkjhjk
+/Users/baker/pokemon.avi
